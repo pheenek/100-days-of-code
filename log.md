@@ -9,9 +9,10 @@ Struggled a bit to formulate a solution to problem 2, trying to decide between a
 
 **Link to work:**
 
-[Problem 1](https://leetcode.com/submissions/detail/815946869/)
+[Problem 1: Two Sum](https://leetcode.com/submissions/detail/815946869/)
 
-[Problem 2](https://leetcode.com/submissions/detail/815979805/)
+[Problem 2: Add Two Numbers](https://leetcode.com/submissions/detail/815979805/)
+
 
 ### Day 2: October 6, 2022
 
@@ -21,9 +22,10 @@ Struggled a bit to formulate a solution to problem 2, trying to decide between a
 Finding the longest substring without repeating characters, including spaces, special symbols and digits, proved quite a challenge. I'll keep trying to solve it! 
 
 **Link to work:**
+[Problem 3: Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/818739934/)
 
 
-### Day 3: October 7, 2022
+### Day 3: October 8, 2022
 
 **Today's Progress**: Tried out Leetcode 4, bugs, bugs, everywhere!
 
@@ -31,6 +33,14 @@ Finding the longest substring without repeating characters, including spaces, sp
 
 **Link to work:**
 
-[Problem 1](https://leetcode.com/submissions/detail/815946869/)
+[Problem 4: Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/818664800/)
 
-[Problem 2](https://leetcode.com/submissions/detail/815979805/)
+
+### Day 4: October 9, 2022
+
+**Today's Progress**: Finally got Leetcode 3 and 4 to pass all test cases.
+
+**Thoughts:** Overlooking tiny details, and not accounting for edge cases, makes it hard to write code that handles all test cases in the first try. In addition to that, the algorithms I've been using haven't particularly been pretty. Primarily brute force, their runtimes can definitely be improved on. Marrying good algorithms with C is also a challenge. I'm hoping that I eventually get a technique that works, implementing some abstract data structures to achieve faster runtimes.
+
+**Link to work:**
+
